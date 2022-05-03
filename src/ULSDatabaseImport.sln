@@ -1,18 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULSDatabaseImport", "ULSDatabaseImport.csproj", "{87DD6E44-7984-4C0B-962C-35583C2CF92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.SharpZLib", "..\..\..\ToolKit\Components\External\SharpZipLib\ICSharpCode.SharpZLib.csproj", "{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}"
-EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 1
-		SccProjectUniqueName0 = ..\\..\\..\\ToolKit\\Components\\External\\SharpZipLib\\ICSharpCode.SharpZLib.csproj
-		SccProjectName0 = \u0022$/ToolKit/Components/SharpZipLib\u0022,\u0020GRIAAAAA
-		SccLocalPath0 = ..\\..\\..\\ToolKit\\Components\\External\\SharpZipLib
-		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -22,12 +15,11 @@ Global
 		{87DD6E44-7984-4C0B-962C-35583C2CF92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87DD6E44-7984-4C0B-962C-35583C2CF92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87DD6E44-7984-4C0B-962C-35583C2CF92D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E7413FF-EB9E-4714-ACF2-BE3A6A7B2FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD054F80-7CE7-4800-8AA0-6747C577E005}
 	EndGlobalSection
 EndGlobal

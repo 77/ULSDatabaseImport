@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Collections;
 using System.IO;
@@ -9,8 +7,8 @@ using ICSharpCode.SharpZipLib.Zip;
 
 namespace ULSDatabaseImport
 {
-   #region Import ULS Data
-   public class ImportULSData
+    #region Import ULS Data
+    public class ImportULSData
    {
       private Hashtable tableColCount;
 

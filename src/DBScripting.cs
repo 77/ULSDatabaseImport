@@ -1,18 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Data.SqlClient;
 using System.Data;
 
 namespace ULSDatabaseImport
 {
-   #region Error Status Codes
+    #region Error Status Codes
 
-   /// <summary>
-   /// Return Error Codes for DBAccess Layer
-   /// </summary>
-   public enum ErrorCodes
+    /// <summary>
+    /// Return Error Codes for DBAccess Layer
+    /// </summary>
+    public enum ErrorCodes
    {
       OK,
       False,
