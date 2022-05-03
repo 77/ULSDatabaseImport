@@ -1,7 +1,0 @@
-NAME					Splitter
-DESCRIPTION       'To Split Large Files into Smaller ones'
-EXETYPE				WINDOWS
-CODE					PRELOAD MOVEABLE DISCARDABLE
-DATA					PRELOAD MOVEABLE MULTIPLE
-
-
